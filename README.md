@@ -1,4 +1,3 @@
-# FastPath 2023
 ## International Workshop on Performance Analysis of Machine Learning Systems
 April 23, 2023 -- Raleigh, NC
 
@@ -50,8 +49,8 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 | Role                    | People                                                                       |
 | ----                    | ----                                                                         |
 | General Chair           | Erik Altman (IBM)                                                            |
-| Program Chairs          | Parijat Dube (IBM), Lei Jiang (Indiana university Bloomington)               |
-| Web and Publicity Chair | Mengxin Zheng (Indiana university Bloomington)                               |
+| Program Chairs          | Parijat Dube (IBM), Lei Jiang (Indiana University Bloomington)               |
+| Web and Publicity Chair | Mengxin Zheng (Indiana University Bloomington)                               |
 
 ## Program Committee
 
