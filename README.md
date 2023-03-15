@@ -54,9 +54,15 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 
 ## Program Committee
 
-| PC Member            | Affiliation                        |
-| ----                 | ----                               |
-| TBD                  |       TBD                             |
+| PC Member                       | Affiliation                                             |
+| ----                            | ----                                                    |
+| Ulrich Finkler                  |       IBM                                               |
+| Jose Cano Reyes                 |       University of Glasgow                             |
+| Ananda Samajdar                 |       IBM                                               |
+| Zehra Sura                      |       Bloomberg                                         |
+| Mohamed Zahran                  |       New York University                               |
+
+
 
 ## Invited Speakers
 
