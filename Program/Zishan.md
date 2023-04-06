@@ -1,4 +1,4 @@
-## [Zhishan Guo]()
+## [Zhishan Guo](https://www.csc.ncsu.edu/people/zguo32)
 ### Associate professor -- Department of Computer Science -- North Carolina State University
 
 <img src="https://www.csc.ncsu.edu/directories/photos/zguo32.jpg" width="250">
