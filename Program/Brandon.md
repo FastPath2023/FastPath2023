@@ -14,6 +14,7 @@ As privacy and security continue to increase in importance new techniques are ne
 
 
 **Biography:**
+
 Brandon Reagen is an Assistant Professor at New York University in the Tandon school of engineering. He received his Ph.D from Harvard in 2018 and undergraduate degree from the University of Massachusetts, Amherst in 2012. His research focuses on novel hardware accelerator designs for high performance and low power with applications in privacy preserving computation, including homomorphic encryption and secure multi-party computation.
 ----
 **[FastPath 2023 Program](https://fastpath2023.github.io/FastPath2023/)**
