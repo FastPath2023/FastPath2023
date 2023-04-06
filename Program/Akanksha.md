@@ -3,7 +3,7 @@
 
 <img src="https://pbs.twimg.com/profile_images/1137846223950557184/J0Ur6pHG_400x400.png" width="250">
 
-### Invited Talk:  *Faster Learning on Slow Hardware*
+### Invited Talk:  **
 
 ### [Slides]()
 
