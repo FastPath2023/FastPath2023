@@ -3,7 +3,7 @@ April 23, 2023 -- Raleigh, NC
 
 In conjunction with **[ISPASS 2023](https://ispass.org/ispass2023/)**
 
-# [Program]()
+# [Program](https://github.iu.edu/zhengme/FastPath2023/Program/)
 
 Schedules and topics.
 
@@ -68,7 +68,10 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 
 | Speaker                                                                                          | Affiliation                                   |
 | ----                                                                                             | ----                                          |
-|TBD                                                                                               |        TBD                                       |                                          
+|Akanksha Jain                                                                                     | The University of Texas at Austin             |        |Hai Li                                                                                            | Duke University                               |      
+|Zishan Guo                                                                                        | North Carolina State University               | 
+|Devesh Tiwari                                                                                     | Northeastern University                       |  
+|Brandon Reaga                                                                                     | Meta / New York University                    |  
      
 ## Previous Editions
 
