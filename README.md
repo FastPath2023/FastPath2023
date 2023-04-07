@@ -68,7 +68,7 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 
 | Speaker                                                                                          | Affiliation                                   |
 | ----                                                                                             | ----                                          |
-|Akanksha Jain                                                                                     | The University of Texas at Austin             | 
+|Akanksha Jain                                                                                     | Google                                        | 
 |Hai Li                                                                                            | Duke University                               | 
 |Zishan Guo                                                                                        | North Carolina State University               | 
 |Devesh Tiwari                                                                                     | Northeastern University                       |  
