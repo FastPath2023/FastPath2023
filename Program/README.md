@@ -5,11 +5,11 @@ April 23, 2023 – Raleigh, NC
 
 ##  Invited Speakers
 
-| Speaker                                                                                          | Affiliation                                   |
+| Speaker                                                                                          | Affiliation                                   | Talk Title |
 | ----                                                                                             | ----                                          |
-|Akanksha Jain                                                                                     | Google                                        | 
-|Hai Li                                                                                            | Duke University                               | 
-|Zishan Guo                                                                                        | North Carolina State University               | 
-|Devesh Tiwari                                                                                     | Northeastern University                       |  
-|Brandon Reagan                                                                                    | New York University / Meta                    |  
+|Akanksha Jain(https://github.com/FastPath2023/FastPath2023/blob/main/Program/Akanksha)      | Google                  |   Neural Hardware Prefetchers|
+|Hai Li     (https://github.com/FastPath2023/FastPath2023/blob/main/Program/Hai)                                                                                       | Duke University                               |  |
+|Zishan Guo(https://github.com/FastPath2023/FastPath2023/blob/main/Program/Zishan)                                                                                        | North Carolina State University               |Resilient and Efficient Real-Time Intelligent Systems via Mixed Criticality |
+|Devesh Tiwari  (https://github.com/FastPath2023/FastPath2023/blob/main/Program/Devesh)                                                                                   | Northeastern University                       | Some unexpected lessons in applying machine learning methods for large-scale computer system optimization problems |
+|Brandon Reagan (https://github.com/FastPath2023/FastPath2023/blob/main/Program/Brandon)                                                                                   | New York University / Meta                    | Characterizing the Performance of End-to-End Private Inference |
      
