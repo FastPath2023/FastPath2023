@@ -5,8 +5,8 @@ April 23, 2023 – Raleigh, NC
 
 ##  Invited Speakers
 
-| Speaker                                                                                          | Affiliation                                   | Talk Title |
-| ----                                                                                             | ----                                          |
+| Speaker                    | Affiliation       | Talk Title |
+| ----                                                                                             | ----              |----              |
 |Akanksha Jain(https://github.com/FastPath2023/FastPath2023/blob/main/Program/Akanksha)      | Google                  |   Neural Hardware Prefetchers|
 |Hai Li     (https://github.com/FastPath2023/FastPath2023/blob/main/Program/Hai)                                                                                       | Duke University                               |  |
 |Zishan Guo(https://github.com/FastPath2023/FastPath2023/blob/main/Program/Zishan)                                                                                        | North Carolina State University               |Resilient and Efficient Real-Time Intelligent Systems via Mixed Criticality |
