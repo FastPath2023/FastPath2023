@@ -68,11 +68,11 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 
 | Speaker                                                                                          | Affiliation                                   |
 | ----                                                                                             | ----                                          |
-|Akanksha Jain                                                                                     | Google                                        | 
-|Hai Li                                                                                            | Duke University                               | 
-|Zishan Guo                                                                                        | North Carolina State University               | 
-|Devesh Tiwari                                                                                     | Northeastern University                       |  
-|Brandon Reagan                                                                                    | New York University / Meta                    |  
+|**[Akanksha Jain](https://www.cs.utexas.edu/users/akanksha/)**                                                   | Google                                     | 
+|**[Hai Li](https://ece.duke.edu/faculty/hai-helen-li)**                       | Duke University                               | 
+|**[Zishan Guo](https://www.csc.ncsu.edu/people/zguo32)**                                                                                        | North Carolina State University               | 
+|**[Devesh Tiwari](https://coe.northeastern.edu/people/tiwari-devesh/)**                                                                                     | Northeastern University                       |  
+|**[Brandon Reagan](https://engineering.nyu.edu/faculty/brandon-reagen)**                                                                                    | New York University / Meta                    |  
      
 ## Previous Editions
 
