@@ -5,10 +5,6 @@
 
 ### Invited Talk:  *Characterizing the Performance of End-to-End Private Inference*
 
-### [Slides]()
-
-### [Video]()
-
 **Abstract:**
 As privacy and security continue to increase in importance new techniques are needed to uphold strong guarantees to users surrounding how their data is used. One emerging solution is privacy-preserving computation (PPC), which includes a set of cryptographic primitives that enable computation directly on encrypted data (e.g., homomorphic encryption and garbled circuits). A key motivation and benchmark for these primitives has been machine learning: its wide use and amenability to PPC constraints makes it a natural starting point. In this talk I will present characterization results for running private inferences on end-to-end systems in a classic client-cloud setup. The data paints a clear picture motivating research in three areas: computation, communication, and storage. To conclude, optimizations will be presented to address these overheads. 
 
