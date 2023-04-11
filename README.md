@@ -3,7 +3,7 @@ April 23, 2023 -- Raleigh, NC
 
 In conjunction with **[ISPASS 2023](https://ispass.org/ispass2023/)**
 
-# [Program](https://github.com/FastPath2023/FastPath2023/tree/main/Program/)
+# [Program](https://github.com/FastPath2023/Program/)
 
 Schedules and topics.
 
