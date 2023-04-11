@@ -5,9 +5,6 @@
 
 ### Invited Talk:  **
 
-### [Slides]()
-
-### [Video]()
 
 **Abstract:**
 
