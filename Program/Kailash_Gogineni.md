@@ -10,6 +10,7 @@ Multi-Agent Reinforcement Learning (MARL) is a promising area of research that c
 
 **Biography:**
 The George Washington University, PhD Candidate,2019 – Present 
+
 Vellore Institute of Technology, Bachelor of Technology - BTech, Computer Science Engineering, 2015 – 2019
 
 ----
