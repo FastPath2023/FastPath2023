@@ -5,10 +5,6 @@
 
 ### Invited Talk:  *Some unexpected lessons in applying machine learning methods for large-scale computer system optimization problems*
 
-### [Slides]()
-
-### [Video]()
-
 **Abstract:**
 Traditionally, we have assumed that large-scale computing users are fairly boring and that their workloads often do similar things repetitively. Their “boring” nature has served us well so far — we could design “boring” systems and get away with it. In particular, we could simply apply machine learning methods and show "improvements". But, now things are changing and changing fast. Our workloads and users are becoming interesting and, often, are surprising us with new trends and behavior. That means it is springing excitement into our lives. We need to design interesting solutions and come out of our boredom. The race to apply AI/ML methods is faster than ever. In this talk, I'll discuss a few lessons I learned as we applied AI/ML methods to computer systems resource management problems: things I wish I knew when I started, things I am glad I did not know when I started, and things I am glad I persisted with. 
 
