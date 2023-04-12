@@ -8,8 +8,7 @@ April 23, 2023 (8:35am - 4:30pm) – Raleigh, NC
 |Time| Speaker                    | Affiliation       | Talk Title |
 |----  |----                                                                                             | ----              |----              |
 |8:35 | | | *Welcome and Opening Remarks*|
-|8:40 - 9:25| **[Hai'Helen' Li](https://fastpath2023.github.io/FastPath2023/Program/Hai)**                                                                                       | Duke University                               | Cross-Layer Optimization for AI with Algorithm-Hardware Co-design)
- |
+|8:40 - 9:25| **[Hai Li](https://fastpath2023.github.io/FastPath2023/Program/Hai)**                                                                                       | Duke University                               | Cross-Layer Optimization for AI with Algorithm-Hardware Co-design|
 |9:35 - 10:20|**[Devesh Tiwari](https://fastpath2023.github.io/FastPath2023/Program/Devesh)**                                                                                   | Northeastern University                       | Some unexpected lessons in applying machine learning methods for large-scale computer system optimization problems |
 |10:30 - 11:00 | | |**Break**|
 |11:00 - 11:30 |**[Kailash Gogineni](https://fastpath2023.github.io/FastPath2023/Program/Kailash_Gogineni)** |The George Washington University |Scalability Bottlenecks in Multi-Agent Reinforcement Learning Systems|
