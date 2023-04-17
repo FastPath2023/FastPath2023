@@ -69,7 +69,7 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 | Speaker                                                                                          | Affiliation                                   |
 | ----                                                                                             | ----                                          |
 |**[Hai "Helen" Li](https://ece.duke.edu/faculty/hai-helen-li)**                       | Duke University                               | 
-|**[Zishan Guo](https://www.csc.ncsu.edu/people/zguo32)**                                                                                        | North Carolina State University               | 
+|**[Zhishan Guo](https://www.csc.ncsu.edu/people/zguo32)**                                                                                        | North Carolina State University               | 
 |**[Akanksha Jain](https://www.cs.utexas.edu/users/akanksha/)**                                                   | Google                             | 
 |**[Devesh Tiwari](https://coe.northeastern.edu/people/tiwari-devesh/)**                                                                                     | Northeastern University                       |  
 |**[Brandon Reagan](https://engineering.nyu.edu/faculty/brandon-reagen)**                                                                                    | New York University / Meta                    |  
