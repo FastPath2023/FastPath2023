@@ -5,6 +5,8 @@
 
 ### Invited Talk:  *Resilient and Efficient Real-Time Intelligent Systems via Mixed Criticality*
 
+**[Video](https://www.youtube.com/watch?v=afakwS32His)** 
+
 **Abstract:**
 
 In the era of CPS (Cyber Physical Systems) and IoT (Internet of Things), Intelligent systems are often safety-critical (with strict temporal constraints) and are often battery-served. This talk discusses our recent and ongoing efforts in Mixed-Criticality design and scheduling analysis of such systems. Such design provides the necessary resiliency and resource efficiency. With various engineering applications, those solutions also shed light on handling challenges in security isolation, system coordination, prediction & control, etc., of modern real-time Cyber-Physical Systems.
