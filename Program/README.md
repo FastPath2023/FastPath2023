@@ -9,7 +9,7 @@ April 23, 2023 (8:35am - 4:00pm) – Raleigh, NC
 
 |Time| Speaker   | Affiliation       | Talk Title |Video |
 |----  |----     | ----              |----       |----         |
-|8:35 | | | | *Welcome and Opening Remarks*|
+|8:35 | | | *Welcome and Opening Remarks*| |
 |8:40 - 9:25| **[Hai"Helen" Li](https://fastpath2023.github.io/FastPath2023/Program/Hai)**                                                                                       | Duke University                               | Cross-Layer Optimization for AI with Algorithm-Hardware Co-design| **[Video](https://www.youtube.com/watch?v=DrSlkerJgf8)**  |
 |9:35 - 10:05 |**[Kailash Gogineni](https://fastpath2023.github.io/FastPath2023/Program/Kailash_Gogineni)** |The George Washington University |Scalability Bottlenecks in Multi-Agent Reinforcement Learning Systems|**[Video](https://www.youtube.com/watch?v=Jfk_2JMb2BY)**  |
 |10:05 - 10:30 | | |**Break**|
