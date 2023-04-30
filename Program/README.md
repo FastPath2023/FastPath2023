@@ -3,6 +3,8 @@ April 23, 2023 (8:35am - 4:00pm) – Raleigh, NC
 
 **[FastPath 2023](https://fastpath2023.github.io/FastPath2023/)** In conjunction with **[ISPASS 2023](https://ispass.org/ispass2023/)**
 
+**[Youtube Channel](https://www.youtube.com/playlist?list=PLiFY02l7XTtuR0BzOQ1jiJmgVzOvU58Ej)**
+
 ## Speakers
 
 |Time| Speaker                    | Affiliation       | Talk Title |
