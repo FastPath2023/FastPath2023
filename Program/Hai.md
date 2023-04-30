@@ -4,7 +4,7 @@
 <img src="https://ece.duke.edu/sites/ece.duke.edu/files/images/members/thumb_image_2967312.jpg" width="250">
 
 ### Invited Talk:  *Cross-Layer Optimization for AI with Algorithm-Hardware Co-design*
-
+ **[Video](https://www.youtube.com/watch?v=DrSlkerJgf8)** 
 
 **Abstract:**
 The advancement of Artificial Intelligence (AI) and its swift deployment on resource-constrained systems relies on refined algorithm-hardware co-design. In this talk, we first propose our solution to craft efficient lightweight AI algorithms via model compression and neural architecture search on broad AI applications, such as image recognition, 2D/3D semantic segmentation, and recommender systems. Then, we involve efficient cross-optimization design and distributed learning to brew swift scalable AI algorithms with specialized compute kernel and hardware architecture. Finally, we demonstrate the improvements in performance-efficiency trade-off on alternative real-world applications, such as electronic design automation and adversarial machine learning. Through these explorations, we present our vision for the future of the full-stack optimization of AI solutions.
