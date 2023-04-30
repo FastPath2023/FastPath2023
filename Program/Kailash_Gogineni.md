@@ -5,6 +5,8 @@
 
 ### Technical Paper:  *Scalability Bottlenecks in Multi-Agent Reinforcement Learning Systems*
 
+**[Video](https://www.youtube.com/watch?v=Jfk_2JMb2BY)** 
+
 **Abstract:**
 Multi-Agent Reinforcement Learning (MARL) is a promising area of research that can model and control multiple, autonomous decision-making agents. During online training, MARL algorithms involve performance-intensive computations such as exploration and exploitation phases originating from large observation-action space belonging to multiple agents. In this article, we seek to characterize the scalability bottlenecks in several popular classes of MARL algorithms during their training phases. Our experimental results reveal new insights into the key modules of MARL algorithms that limit the scalability, and outline potential strategies that may help address these performance issues.
 
