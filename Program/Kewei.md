@@ -5,6 +5,8 @@
 
 ### Technical Paper:  *Analyzing Data Movement of Deep Learning Applications for Computer Vision Tasks*
 
+**[Video](https://www.youtube.com/watch?v=FrP2_MwP8zE)**  
+
 **Abstract:**
 Deep learning (DL) applications for computer vision (CV) tasks are popular nowadays and it remains critical to analyze data movement of these applications, given the increasing complexity of memory systems and the huge size of networks. In this work, we used NVIDIA Nsight Systems to analyze the data movement of YOLOv3-based object detectors implemented by darknet and PyTorch respectively. We profiled and traced the data movement during executions in terms of training and inference processes for both applications. Thus, we showed the observations on the patterns of data movement and gave our suggestions for optimization. These findings can contribute to the deep learning community to improve the efficiency of these applications.
 
